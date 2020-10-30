@@ -305,5 +305,3 @@ addEventListener("keydown",(event)=>{
 }
  
 
-
-//requestAnimationFrame(updateCanvas);
